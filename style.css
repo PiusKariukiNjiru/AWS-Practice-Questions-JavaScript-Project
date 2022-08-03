@@ -49,6 +49,7 @@ button {
 #container {
     width:50%;
     margin:auto;
+    margin-top: 3%;
     padding: 0 25px 40px 10px;
     background-color: #260452;
     border:1px solid #B0E0E6;
@@ -71,4 +72,12 @@ ul {
 #start {
     display:none;
     width: 90px;
+}
+.author{
+    margin-top: 3%;
+    text-align: center;
+
+}
+.author p{
+    text-shadow: 1.5px 1px#525252;
 }
